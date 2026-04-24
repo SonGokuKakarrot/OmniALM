@@ -15,5 +15,5 @@ Follow these **in order**:
 
 2. **Clone your repository**
    ```bash
-   git clone https://github.com/<your-username>/OmniALM.git
-   cd OmniALM
+   git clone https://github.com/<your-username>/OmniLM.git
+   cd OmniLM
